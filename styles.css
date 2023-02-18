@@ -1,0 +1,32 @@
+#base{
+    padding-top: 1.2%;
+    background-color: black;
+}
+.heading{
+    color: red;
+    border-radius:1vh;
+    padding: 1%;
+    margin:4%;
+    text-align: center;
+    background-color:white;
+    font-weight: 900;
+}
+.section {
+    border-radius:1.5vh;
+    padding: 1%;
+    margin:4%;
+    text-align: center;
+    background-color:white;
+}
+.in-0{
+    font-size: x-large;
+    font-weight:1000;
+}
+.in-1{
+    font-size: larger;
+    font-weight:1000;
+}
+.in-2{
+    font-size: larger;
+    font-weight:1000;
+}
